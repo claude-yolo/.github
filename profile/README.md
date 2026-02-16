@@ -1,5 +1,3 @@
-![claude-yolo](https://raw.githubusercontent.com/claude-yolo/claude-yolo/main/assets/logo.jpeg)
-
 # claude-yolo
 
 Run parallel [Claude Code](https://docs.anthropic.com/en/docs/claude-code) agents in tmux with automatic permission approval.
@@ -17,3 +15,4 @@ claude-yolo "fix the login bug" "add unit tests for auth" "update the README"
 ```
 
 See the [full documentation](https://github.com/claude-yolo/claude-yolo) for options, navigation, and how it works under the hood.
+![claude-yolo](https://raw.githubusercontent.com/claude-yolo/claude-yolo/main/assets/logo.jpeg)
